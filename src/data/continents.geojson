@@ -1,0 +1,76 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": { "name": "Africa" },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [-17.6, 37.2], [51.3, 37.2], [51.3, -34.8], [-17.6, -34.8], [-17.6, 37.2]
+          ]]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": { "name": "Europe" },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [-31.3, 71.2], [40.2, 71.2], [40.2, 34.5], [-31.3, 34.5], [-31.3, 71.2]
+          ]]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": { "name": "Asia" },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [26.0, 81.0], [180.0, 81.0], [180.0, -10.0], [26.0, -10.0], [26.0, 81.0]
+          ]]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": { "name": "North America" },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [-168.0, 72.0], [-52.0, 72.0], [-52.0, 7.0], [-168.0, 7.0], [-168.0, 72.0]
+          ]]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": { "name": "South America" },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [-82.0, 13.0], [-34.0, 13.0], [-34.0, -56.0], [-82.0, -56.0], [-82.0, 13.0]
+          ]]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": { "name": "Australia" },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [112.0, -10.0], [155.0, -10.0], [155.0, -44.0], [112.0, -44.0], [112.0, -10.0]
+          ]]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": { "name": "Antarctica" },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [-180.0, -60.0], [180.0, -60.0], [180.0, -90.0], [-180.0, -90.0], [-180.0, -60.0]
+          ]]
+        }
+      }
+    ]
+  }
+  
